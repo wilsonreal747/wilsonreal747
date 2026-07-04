@@ -1,16 +1,32 @@
-## Hi there 👋
+# Wilson
 
-<!--
-**wilsonreal747/wilsonreal747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building **Wilson.inc**, a human-AI collaboration system for a one-person company.
 
-Here are some ideas to get you started:
+My work explores how one person can use AI agents, knowledge systems, product design, and automation to operate with the leverage of a small team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+
+- **Human-AI collaboration workflows** for daily work, project management, and decision support
+- **Agent-readable knowledge systems** that help AI assistants understand context, roles, projects, and standards
+- **AI-native company operations** for a one-person company, from research and planning to execution and publishing
+- **Content leverage systems** that turn real project progress into reusable public writing and social media updates
+
+## Current Focus
+
+- Building practical tools for Wilson.inc
+- Designing workflows where humans and AI agents work together clearly
+- Turning private work systems into public, reusable projects
+- Exploring how AIGC can help maintain social presence without losing human judgment
+
+## What You'll Find Here
+
+This GitHub is where I publish experiments, tools, documents, and project infrastructure related to:
+
+- AI agents
+- Personal knowledge systems
+- Workflow automation
+- One-person company operations
+- Product and design systems
+
+I'm less interested in AI as a novelty, and more interested in AI as an operating layer for real work.
+
